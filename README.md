@@ -1,19 +1,30 @@
 <div align="center">
 
+<!-- Visitor Count -->
+![Visitor Count](https://profile-counter.glitch.me/anayduggal22/count.svg)
+
 <h1>Hi 👋, I'm Anay Duggal</h1>
 <h3>Competitive Programmer | CSE Student</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;DSA+Enthusiast;CSE+Student;Always+Learning&center=true&width=380&color=F75C7E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;DSA+Enthusiast;CSE+Student;Always+Learning;Cat+Lover+🐱&center=true&width=380&color=F75C7E)](https://git.io/typing-svg)
+
+<!-- Animated Cat GIF -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 
 🔭 I'm currently working on **Building Myself**  
 📫 How to reach me **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**  
-⚡ Fun fact **I like Cats**
+⚡ Fun fact **I like Cats 🐱**
+
+---
 
 <h3>Connect with me:</h3>
+
 <table><tr>
 <td><a href="https://linkedin.com/in/anay-duggal-54196a376" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
 <td><a href="https://leetcode.com/u/anay07/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
 </tr></table>
+
+---
 
 <h3>Languages and Tools:</h3>
 
@@ -41,5 +52,12 @@
 <h2>🔥 LeetCode Stats</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anay07?theme=dark&font=Nunito&ext=heatmap)
+
+---
+
+<!-- Cute cat footer -->
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
+
+*Thanks for visiting! Have a great day 🐱*
 
 </div>
