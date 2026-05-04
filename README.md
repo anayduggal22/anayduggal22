@@ -5,15 +5,13 @@
 <h1>Hi 👋, I'm Anay Duggal</h1>
 <h3>Competitive Programmer | CSE Student</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;DSA+Enthusiast;CSE+Student;Always+Learning;Cat+Lover+🐱&center=true&width=380&color=F75C7E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Competitive+Programmer;DSA+Enthusiast;CSE+Student;Always+Learning;Cat+Lover+%F0%9F%90%B1)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 
 </div>
 
 ---
-
-<!-- About + Cat side by side -->
-<table><tr>
-<td valign="top" width="60%">
 
 🔭 I'm currently working on **Building Myself**
 
@@ -21,19 +19,14 @@
 
 ⚡ Fun fact: **I like Cats 🐱**
 
-<h3>Connect with me:</h3>
+---
 
-<a href="https://linkedin.com/in/anay-duggal-54196a376" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/anay07/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+### 🔗 Connect with me:
 
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-
-</td>
+<table><tr>
+<td><a href="https://linkedin.com/in/anay-duggal-54196a376" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+<td><a href="https://leetcode.com/u/anay07/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
 </tr></table>
-
 ---
 
 ### 🛠️ Languages and Tools:
