@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Visitor Count -->
 <img src="https://komarev.com/ghpvc/?username=anayduggal22&label=Profile+Views&color=e4007e&style=for-the-badge" alt="visitors"/>
 
 <h1>Hi 👋, I'm Anay Duggal</h1>
@@ -8,25 +7,36 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;DSA+Enthusiast;CSE+Student;Always+Learning;Cat+Lover+🐱&center=true&width=380&color=F75C7E)](https://git.io/typing-svg)
 
-<!-- Animated Cat GIF -->
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-
-🔭 I'm currently working on **Building Myself**  
-📫 How to reach me **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**  
-⚡ Fun fact **I like Cats 🐱**
+</div>
 
 ---
 
+<!-- About + Cat side by side -->
+<table><tr>
+<td valign="top" width="60%">
+
+🔭 I'm currently working on **Building Myself**
+
+📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**
+
+⚡ Fun fact: **I like Cats 🐱**
+
 <h3>Connect with me:</h3>
 
-<table><tr>
-<td><a href="https://linkedin.com/in/anay-duggal-54196a376" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-<td><a href="https://leetcode.com/u/anay07/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+<a href="https://linkedin.com/in/anay-duggal-54196a376" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anay07/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+
+</td>
 </tr></table>
 
 ---
 
-<h3>Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
@@ -41,23 +51,23 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anayduggal22&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anayduggal22&layout=compact&theme=radical)
-
----
-
-<h2>🔥 LeetCode Stats</h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/anay07?theme=dark&font=Nunito&ext=heatmap)
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=anayduggal22&show_icons=true&theme=radical&count_private=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayduggal22&layout=compact&theme=radical" /></td>
+</tr></table>
 
 ---
 
-<!-- Cute cat footer -->
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
+### 🔥 LeetCode Stats:
+
+<img src="https://leetcard.jacoblin.cool/anay07?theme=dark&font=Nunito&ext=heatmap" />
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
 
 *Thanks for visiting! Have a great day 🐱*
-
 </div>
