@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Visitor Count -->
-![Visitor Count](https://profile-counter.glitch.me/anayduggal22/count.svg)
+<img src="https://komarev.com/ghpvc/?username=anayduggal22&label=Profile+Views&color=e4007e&style=for-the-badge" alt="visitors"/>
 
 <h1>Hi 👋, I'm Anay Duggal</h1>
 <h3>Competitive Programmer | CSE Student</h3>
