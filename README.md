@@ -59,12 +59,6 @@
 
 ---
 
-### 🔥 LeetCode Stats:
-
-<img src="https://leetcard.jacoblin.cool/anay07?theme=dark&font=Nunito&ext=heatmap" />
-
----
-
 <div align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
 
