@@ -60,7 +60,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150"/>
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/itlEPtt6S0H.gif)" width="150"/>
 
 *Thanks for visiting! Have a great day 🐱*
 </div>
