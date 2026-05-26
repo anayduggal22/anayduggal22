@@ -16,9 +16,9 @@
 
 ---
 
-🔭 I'm currently working on **Data Science + Machine Learning**
-🌱 I'm currently learning **pandas, scikit-learn, statistics, and ML algorithms**
-📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**
+🔭 I'm currently working on **Data Science + Machine Learning**<br>
+🌱 I'm currently learning **pandas, scikit-learn, statistics, and ML algorithms**<br>
+📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**<br>
 ⚡ Fun fact: **I like Cats 🐱**
 
 ---
