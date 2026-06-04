@@ -16,10 +16,10 @@
 
 ---
 
-🔭 I'm currently working on **Data Science + Machine Learning**
-🌱 I'm currently learning **scikit-learn, Hyperparameter Tuning, Pipelines**
-📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**
-⚡ Fun fact: **I like Cats 🐱**
+🔭 I'm currently working on **Data Science + Machine Learning**<br>
+🌱 I'm currently learning **scikit-learn, Hyperparameter Tuning, Pipelines**<br>
+📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**<br>
+⚡ Fun fact: **I like Cats and walking till my legs hurt.**
 
 ---
 
