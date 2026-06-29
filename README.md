@@ -16,8 +16,8 @@
 
 ---
 
-🔭 I'm currently working on **Data Science + Machine Learning**<br>
-🌱 I'm currently learning **scikit-learn, Hyperparameter Tuning, Pipelines**<br>
+🔭 I'm currently working on **Kaggle Competitions + Data Science Portfolio**<br>
+🌱 I'm currently learning **Kaggle competitions, Feature Engineering, ML Pipelines**<br>
 📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**<br>
 ⚡ Fun fact: **I like Cats and walking till my legs hurt.**
 
@@ -27,11 +27,14 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 🚢 [Titanic Survival Predictor](https://github.com/anayduggal22/kaggle-titanic) | Kaggle competition — EDA, feature engineering, Random Forest. Score: 0.78229 | Python, scikit-learn, seaborn |
 | 🌾 [Crop Yield Predictor](https://github.com/anayduggal22/Crop-Yield-Predictor) | Linear Regression ML model to predict farm yield | Python, scikit-learn, pandas |
 | 🏏 [IPL Stats Analyser](https://github.com/anayduggal22/IPL-Cricket-Stats) | Statistical analysis of IPL batting data using Z-scores | Python, scipy, seaborn |
 | 🌤️ [Weather Dashboard](https://github.com/anayduggal22/Weather_Dashboard) | Real-time Indian cities weather dashboard using Open-Meteo API | Python, requests, matplotlib |
 | 🌸 [Iris Model Comparison](https://github.com/anayduggal22/Iris_Comparison) | Comparing 5 ML algorithms on Iris dataset | Python, scikit-learn, seaborn |
 | ⚙️ [ML Hyperparameter Tuning](https://github.com/anayduggal22/Ml_Hyperparameter_Tuning) | GridSearchCV + Pipelines on Breast Cancer dataset | Python, scikit-learn, scipy |
+| 👥 [Customer Segmentation](https://github.com/anayduggal22/customer-segmentation) | K-Means clustering on mall customer data | Python, scikit-learn, seaborn |
+| 🗄️ [India Agriculture SQL Pipeline](https://github.com/anayduggal22/india-agriculture-sql) | SQL analytics pipeline on crop production data | Python, SQLite, PostgreSQL, pandas |
 
 ---
 
@@ -66,12 +69,11 @@
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 **Currently Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -91,6 +93,12 @@
 <td><img src="https://github-readme-stats.vercel.app/api?username=anayduggal22&show_icons=true&theme=radical&count_private=true" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayduggal22&layout=compact&theme=radical" /></td>
 </tr></table>
+
+---
+
+### 💻 LeetCode Stats:
+
+<img src="https://leetcard.jacoblin.cool/anay07?theme=radical&font=Fira%20Code" />
 
 ---
 
