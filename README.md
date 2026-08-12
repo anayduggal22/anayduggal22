@@ -20,7 +20,6 @@
 🌱 I'm currently learning **NLP and deployment (Docker, FastAPI)**<br>
 🏆 Recently shipped **two full ML capstones** — Customer Churn Prediction and Credit Card Fraud Detection — each comparing 5-6 models and deployed as interactive web apps<br>
 📫 Reach me at **[anayduggal22@gmail.com](mailto:anayduggal22@gmail.com)**<br>
-⚡ Fun fact: **I like Cats and walking till my legs hurt.**
 
 ---
 
@@ -104,17 +103,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=anayduggal22&show_icons=true&theme=radical&count_private=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayduggal22&layout=compact&theme=radical" /></td>
-</tr></table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anayduggal22&theme=radical" alt="GitHub Streak" width="48%"/>
 
 ---
 
