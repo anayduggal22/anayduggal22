@@ -115,7 +115,6 @@
 <div align="center">
 <img src="https://media.tenor.com/YMkDdvZ8IKkAAAAj/emote-fangz-colmillosdulces.gif" width="150"/>
 
-*"Ship it, don't just notebook it."* 🚀
 
 *Thanks for visiting! Have a great day 🐱*
 </div>
