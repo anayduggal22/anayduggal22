@@ -66,18 +66,18 @@ class Anay:
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  BUILDING                                                │
+│  BUILDING                                                   │
 │  └─ End-to-End Credit Card Fraud Detection                  │
 │     XGBoost + Ensembles + Neural Network + Streamlit        │
 │                                                             │
-│  LEARNING                                                │
+│  LEARNING                                                   │
 │  └─ NLP + Docker + FastAPI                                  │
 │                                                             │
-│  RECENTLY SHIPPED                                        │
+│  RECENTLY SHIPPED                                           │
 │  └─ Customer Churn Prediction                               │
 │  └─ Credit Card Fraud Detection                             │
 │                                                             │
-│  CONTACT                                                 │
+│  CONTACT                                                    │
 │  └─ anayduggal22@gmail.com                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
