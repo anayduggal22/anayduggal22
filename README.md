@@ -42,7 +42,7 @@
 
 <td width="65%" valign="center">
 
-# 👋 Hi, I'm Anay Duggal
+# Hi, I'm Anay Duggal
 
 ### `Data Scientist in the Making` • `ML Engineer` • `Competitive Programmer`
 
@@ -82,23 +82,23 @@ class Anay:
 
 ---
 
-# ⚡ What I'm Doing
+# What I'm Doing
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  🔭 BUILDING                                                │
+│  BUILDING                                                │
 │  └─ End-to-End Credit Card Fraud Detection                  │
 │     XGBoost + Ensembles + Neural Network + Streamlit        │
 │                                                             │
-│  🌱 LEARNING                                                │
+│  LEARNING                                                │
 │  └─ NLP + Docker + FastAPI                                  │
 │                                                             │
-│  🏆 RECENTLY SHIPPED                                        │
+│  RECENTLY SHIPPED                                        │
 │  └─ Customer Churn Prediction                               │
 │  └─ Credit Card Fraud Detection                             │
 │                                                             │
-│  📫 CONTACT                                                 │
+│  CONTACT                                                 │
 │  └─ anayduggal22@gmail.com                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -106,13 +106,13 @@ class Anay:
 
 ---
 
-# 🚀 Flagship Projects
+# Flagship Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 💳 Credit Card Fraud Detection
+### Credit Card Fraud Detection
 
 **End-to-End ML System**
 
@@ -133,7 +133,7 @@ class Anay:
 
 <td width="50%">
 
-### 📉 Customer Churn Prediction
+### Customer Churn Prediction
 
 **Telecom ML Prediction System**
 
@@ -158,7 +158,7 @@ class Anay:
 
 <td width="50%">
 
-### 🔢 CNN MNIST Classifier
+### CNN MNIST Classifier
 
 **Deep Learning**
 
@@ -175,7 +175,7 @@ class Anay:
 
 <td width="50%">
 
-### 🧠 My ML Philosophy
+### My ML Philosophy
 
 ```text
 Data
@@ -192,7 +192,7 @@ Compare
  ↓
 Optimize
  ↓
-Deploy 🚀
+Deploy 
 ```
 
 </td>
@@ -202,26 +202,26 @@ Deploy 🚀
 
 ---
 
-# 🗂️ More Projects
+# More Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🚢 [Kaggle Titanic](https://github.com/anayduggal22/kaggle-titanic) | EDA, feature engineering, Random Forest • Score: **0.78229** | Python, scikit-learn, seaborn |
-| 🏠 [Kaggle House Prices](https://github.com/anayduggal22/kaggle-house-prices) | Regression pipeline with preprocessing • RMSE: **0.14467** | Python, scikit-learn |
-| ✍️ [Kaggle Digit Recognizer](https://github.com/anayduggal22/kaggle-digit-recognizer) | Classic MNIST classification • Score: **0.96460** | Python, scikit-learn |
-| 🌾 [Indian Agriculture Analysis](https://github.com/anayduggal22/indian-agriculture-analysis) | 246K-row data analysis pipeline | Pandas, SQLite |
-| 🦠 [COVID India Dashboard](https://github.com/anayduggal22/covid-india-dashboard) | Interactive COVID trends dashboard | Python, pandas, matplotlib |
-| 🏏 [IPL Analysis + Win Prediction](https://github.com/anayduggal22/ipl-analysis) | Statistical analysis + ML prediction | Python, scikit-learn |
-| ⚙️ [ML Hyperparameter Tuning](https://github.com/anayduggal22/Ml_Hyperparameter_Tuning) | GridSearchCV + Pipelines | scikit-learn, SciPy |
-| 👥 [Customer Segmentation](https://github.com/anayduggal22/customer-segmentation) | K-Means clustering | scikit-learn, seaborn |
-| 🗄️ [India Agriculture SQL](https://github.com/anayduggal22/india-agriculture-sql) | SQL analytics pipeline | SQLite, PostgreSQL, pandas |
-| 🌸 [Iris Model Comparison](https://github.com/anayduggal22/Iris_Comparison) | Comparison of 5 ML algorithms | scikit-learn |
-| 🌤️ [Weather Dashboard](https://github.com/anayduggal22/Weather_Dashboard) | Real-time Indian cities weather | Open-Meteo API |
-| 🌾 [Crop Yield Predictor](https://github.com/anayduggal22/Crop-Yield-Predictor) | Farm yield prediction | Linear Regression |
+| [Kaggle Titanic](https://github.com/anayduggal22/kaggle-titanic) | EDA, feature engineering, Random Forest • Score: **0.78229** | Python, scikit-learn, seaborn |
+| [Kaggle House Prices](https://github.com/anayduggal22/kaggle-house-prices) | Regression pipeline with preprocessing • RMSE: **0.14467** | Python, scikit-learn |
+| [Kaggle Digit Recognizer](https://github.com/anayduggal22/kaggle-digit-recognizer) | Classic MNIST classification • Score: **0.96460** | Python, scikit-learn |
+| [Indian Agriculture Analysis](https://github.com/anayduggal22/indian-agriculture-analysis) | 246K-row data analysis pipeline | Pandas, SQLite |
+| [COVID India Dashboard](https://github.com/anayduggal22/covid-india-dashboard) | Interactive COVID trends dashboard | Python, pandas, matplotlib |
+| [IPL Analysis + Win Prediction](https://github.com/anayduggal22/ipl-analysis) | Statistical analysis + ML prediction | Python, scikit-learn |
+| [ML Hyperparameter Tuning](https://github.com/anayduggal22/Ml_Hyperparameter_Tuning) | GridSearchCV + Pipelines | scikit-learn, SciPy |
+| [Customer Segmentation](https://github.com/anayduggal22/customer-segmentation) | K-Means clustering | scikit-learn, seaborn |
+| [India Agriculture SQL](https://github.com/anayduggal22/india-agriculture-sql) | SQL analytics pipeline | SQLite, PostgreSQL, pandas |
+| [Iris Model Comparison](https://github.com/anayduggal22/Iris_Comparison) | Comparison of 5 ML algorithms | scikit-learn |
+| [Weather Dashboard](https://github.com/anayduggal22/Weather_Dashboard) | Real-time Indian cities weather | Open-Meteo API |
+| [Crop Yield Predictor](https://github.com/anayduggal22/Crop-Yield-Predictor) | Farm yield prediction | Linear Regression |
 
 ---
 
-# 🧠 Machine Learning Stack
+# Machine Learning Stack
 
 <p align="center">
 
@@ -242,7 +242,7 @@ Deploy 🚀
 
 ---
 
-# 💻 Languages
+# Languages
 
 <p align="center">
 
@@ -256,7 +256,7 @@ Deploy 🚀
 
 ---
 
-# 📊 Data Science
+# Data Science
 
 <p align="center">
 
@@ -270,7 +270,7 @@ Deploy 🚀
 
 ---
 
-# 🚀 Deployment & Tools
+# Deployment & Tools
 
 <p align="center">
 
@@ -286,7 +286,7 @@ Deploy 🚀
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -304,7 +304,7 @@ Deploy 🚀
 
 ---
 
-# 🧩 Currently Learning
+# Currently Learning
 
 <p align="center">
 
@@ -318,7 +318,7 @@ Deploy 🚀
 
 ---
 
-# 🧮 LeetCode
+# LeetCode
 
 <p align="center">
 
@@ -357,8 +357,6 @@ Deploy 🚀
 <br>
 
 ### `Thanks for visiting!`
-
-**Building intelligent systems, one model at a time.** 🚀
 
 </p>
 
