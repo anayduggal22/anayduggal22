@@ -82,20 +82,19 @@ class Anay:
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
-
 ---
 
-# Flagship Projects
+# 🚀 Flagship Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### Credit Card Fraud Detection
+<td width="33%" valign="top">
+
+### 💳 Credit Card Fraud Detection
 
 **End-to-End ML System**
 
-- Extremely imbalanced dataset
 - 0.17% fraud cases
 - 6-model comparison
 - XGBoost
@@ -110,13 +109,13 @@ class Anay:
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top">
 
-### Customer Churn Prediction
+### 📉 Customer Churn Prediction
 
 **Telecom ML Prediction System**
 
-- Complete preprocessing pipeline
+- Complete preprocessing
 - 6-model comparison
 - Logistic Regression
 - Random Forest
@@ -131,13 +130,10 @@ class Anay:
 </a>
 
 </td>
-</tr>
 
-<tr>
+<td width="33%" valign="top">
 
-<td width="50%">
-
-### CNN MNIST Classifier
+### 🔢 CNN MNIST Classifier
 
 **Deep Learning**
 
@@ -152,35 +148,10 @@ class Anay:
 
 </td>
 
-<td width="50%">
-
-### My ML Philosophy
-
-```text
-Data
- ↓
-Clean
- ↓
-Explore
- ↓
-Engineer Features
- ↓
-Train Models
- ↓
-Compare
- ↓
-Optimize
- ↓
-Deploy 
-```
-
-</td>
-
 </tr>
 </table>
 
 ---
-
 # More Projects
 
 | Project | Description | Tech |
