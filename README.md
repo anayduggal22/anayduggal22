@@ -8,33 +8,9 @@
 </p>
 
 <p align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  ~/anayduggal22                                             ║
-║                                                              ║
-║  $ python build_future.py                                   ║
-║                                                              ║
-║  [████████████████████████████████████████] 100%            ║
-║                                                              ║
-║  ✓ Machine Learning                                         ║
-║  ✓ Deep Learning                                            ║
-║  ✓ Data Science                                             ║
-║  ✓ Competitive Programming                                 ║
-║                                                              ║
-║  Status: ONLINE ●                                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;XGBoost+%2B+Ensembles+%2B+Deep+Learning;Shipping+Models%2C+Not+Just+Notebooks;Turning+Data+Into+Intelligence;Always+Learning+%F0%9F%90%B1" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anayduggal22&label=PROFILE+VIEWS&color=e4007e&style=for-the-badge"/>
-</p>
 
 ---
 
