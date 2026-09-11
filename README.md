@@ -2,14 +2,12 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&text=ANAY%20DUGGAL&fontSize=68&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=BUILDING%20ML%20SYSTEMS%20%7C%20SOLVING%20HARD%20PROBLEMS&descAlignY=63&descSize=16&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ANAY%20DUGGAL&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20CSE%20Student&descAlignY=62&descSize=18&color=gradient"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;XGBoost+%2B+Ensembles+%2B+Deep+Learning;Shipping+Models%2C+Not+Just+Notebooks;Turning+Data+Into+Intelligence;Always+Learning+%F0%9F%90%B1" />
-</p>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
