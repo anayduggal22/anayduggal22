@@ -66,17 +66,17 @@ class Anay:
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  LEARNING                                                    │
-│  └─ Deployment & MLOps — Docker + FastAPI                    │
+│  LEARNING                                                   │
+│  └─ Deployment & MLOps — Docker + FastAPI                   │
 │                                                             │
-│  RECENTLY SHIPPED                                            │
-│  └─ SMS Spam Classifier                                      │
-│     Classical ML + LSTM + GloVe + Fine-Tuned DistilBERT       │
-│  └─ Credit Card Fraud Detection                              │
-│  └─ Customer Churn Prediction                                │
+│  RECENTLY SHIPPED                                           │
+│  └─ SMS Spam Classifier                                     │
+│     Classical ML + LSTM + GloVe + Fine-Tuned DistilBERT     │
+│  └─ Credit Card Fraud Detection                             │
+│  └─ Customer Churn Prediction                               │
 │                                                             │
-│  CONTACT                                                     │
-│  └─ anayduggal22@gmail.com                                   │
+│  CONTACT                                                    │
+│  └─ anayduggal22@gmail.com                                  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
