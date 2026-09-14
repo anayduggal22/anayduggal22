@@ -100,7 +100,7 @@ class Anay:
 - **97.64% F1 (best model)**
 - Streamlit deployment
 
-<a href="https://github.com/anayduggal22/sms-spam-classifier">
+<a href="https://github.com/anayduggal22/SMS_Spam_Classifier">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -120,7 +120,7 @@ class Anay:
 - Neural Network
 - Streamlit deployment
 
-<a href="https://github.com/anayduggal22/credit-card-fraud-detection">
+<a href="https://github.com/anayduggal22/Credit_Card_Fraud_Detection">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -141,7 +141,7 @@ class Anay:
 - Neural Network
 - Interactive web app
 
-<a href="https://github.com/anayduggal22/customer-churn-prediction">
+<a href="https://github.com/anayduggal22/Customer_Churn_Prediction">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -158,7 +158,7 @@ class Anay:
 - Handwritten digit recognition
 - **99.09% test accuracy**
 
-<a href="https://github.com/anayduggal22/cnn-mnist-classifier">
+<a href="https://github.com/anayduggal22/CNN_MNIST_Classifier">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
