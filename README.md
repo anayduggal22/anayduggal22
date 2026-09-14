@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;XGBoost+%2B+Ensembles+%2B+Deep+Learning;Shipping+Models%2C+Not+Just+Notebooks;Turning+Data+Into+Intelligence;Always+Learning+%F0%9F%90%B1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&lines=Building+End-to-End+ML+Pipelines;Classical+ML+%2B+Deep+Learning+%2B+NLP;Shipping+Models%2C+Not+Just+Notebooks;Turning+Data+Into+Intelligence;Always+Learning+%F0%9F%90%B1" />
 </p>
 
 
@@ -35,14 +35,14 @@ class Anay:
     interests = [
         "Machine Learning",
         "Deep Learning",
-        "Data Science",
+        "NLP",
         "Competitive Programming"
     ]
 
     currently_learning = [
-        "NLP",
         "Docker",
-        "FastAPI"
+        "FastAPI",
+        "Model Deployment & MLOps"
     ]
 
     mindset = "Build → Break → Debug → Improve"
@@ -66,19 +66,17 @@ class Anay:
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  BUILDING                                                   │
-│  └─ End-to-End Credit Card Fraud Detection                  │
-│     XGBoost + Ensembles + Neural Network + Streamlit        │
+│  LEARNING                                                    │
+│  └─ Deployment & MLOps — Docker + FastAPI                    │
 │                                                             │
-│  LEARNING                                                   │
-│  └─ NLP + Docker + FastAPI                                  │
+│  RECENTLY SHIPPED                                            │
+│  └─ SMS Spam Classifier                                      │
+│     Classical ML + LSTM + GloVe + Fine-Tuned DistilBERT       │
+│  └─ Credit Card Fraud Detection                              │
+│  └─ Customer Churn Prediction                                │
 │                                                             │
-│  RECENTLY SHIPPED                                           │
-│  └─ Customer Churn Prediction                               │
-│  └─ Credit Card Fraud Detection                             │
-│                                                             │
-│  CONTACT                                                    │
-│  └─ anayduggal22@gmail.com                                  │
+│  CONTACT                                                     │
+│  └─ anayduggal22@gmail.com                                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -89,7 +87,26 @@ class Anay:
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+### 💬 SMS Spam Classifier
+
+**NLP: Classical → Deep Learning → Transformers**
+
+- 7-model comparison
+- Bag of Words / TF-IDF
+- LSTM (from-scratch + GloVe)
+- Fine-tuned DistilBERT
+- **97.64% F1 (best model)**
+- Streamlit deployment
+
+<a href="https://github.com/anayduggal22/sms-spam-classifier">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="25%" valign="top">
 
 ### 💳 Credit Card Fraud Detection
 
@@ -109,7 +126,7 @@ class Anay:
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 📉 Customer Churn Prediction
 
@@ -120,8 +137,7 @@ class Anay:
 - Logistic Regression
 - Random Forest
 - XGBoost
-- Voting Ensemble
-- Stacking Ensemble
+- Voting + Stacking Ensembles
 - Neural Network
 - Interactive web app
 
@@ -131,7 +147,7 @@ class Anay:
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🔢 CNN MNIST Classifier
 
@@ -185,6 +201,9 @@ class Anay:
 ![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
@@ -258,11 +277,10 @@ class Anay:
 
 <p align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-8E44AD?style=for-the-badge)
 
 </p>
 
