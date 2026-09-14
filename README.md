@@ -82,14 +82,14 @@ class Anay:
 ```
 ---
 
-# 🚀 Flagship Projects
+# Flagship Projects
 
 <table>
 <tr>
 
 <td width="25%" valign="top">
 
-### 💬 SMS Spam Classifier
+### SMS Spam Classifier
 
 **NLP: Classical → Deep Learning → Transformers**
 
@@ -108,7 +108,7 @@ class Anay:
 
 <td width="25%" valign="top">
 
-### 💳 Credit Card Fraud Detection
+### Credit Card Fraud Detection
 
 **End-to-End ML System**
 
@@ -128,7 +128,7 @@ class Anay:
 
 <td width="25%" valign="top">
 
-### 📉 Customer Churn Prediction
+### Customer Churn Prediction
 
 **Telecom ML Prediction System**
 
@@ -149,7 +149,7 @@ class Anay:
 
 <td width="25%" valign="top">
 
-### 🔢 CNN MNIST Classifier
+### CNN MNIST Classifier
 
 **Deep Learning**
 
